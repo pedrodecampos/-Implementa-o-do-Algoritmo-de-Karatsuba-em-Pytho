@@ -17,8 +17,8 @@ Este projeto implementa o algoritmo de multiplicação rápida de Karatsuba em P
 ### Execução
 1. Clone o repositório
    ```sh
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone https://github.com/pedrodecampos/trabalho_indiviudal_1_fpaa.git
+   cd trabalho_indiviudal-1_fpaa
    ```
 2. Execute o script
    ```sh
